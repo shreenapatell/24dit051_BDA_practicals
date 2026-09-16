@@ -1,0 +1,43 @@
+[
+  {
+    "rollNo": 101,
+    "name": "Aarav",
+    "age": 20,
+    "course": "BTech IT",
+    "marks": 90,
+    "city": "Ahmedabad"
+  },
+  {
+    "rollNo": 102,
+    "name": "Diya",
+    "age": 21,
+    "course": "BTech IT",
+    "marks": 96,
+    "city": "Vadodara"
+  },
+  {
+    "rollNo": 103,
+    "name": "Rohan",
+    "age": 20,
+    "course": "BTech CSE",
+    "marks": 78,
+    "city": "Mumbai"
+  },
+  {
+    "rollNo": 104,
+    "name": "Meera",
+    "age": 22,
+    "course": "BTech IT",
+    "marks": 93,
+    "city": "Rajkot"
+  },
+  {
+    "rollNo": 105,
+    "name": "Karan",
+    "age": 21,
+    "course": "BCA",
+    "marks": 72,
+    "city": "Ahmedabad"
+  }
+]
+
